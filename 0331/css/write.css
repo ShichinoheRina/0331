@@ -1,0 +1,37 @@
+.cms-thumb{
+    margin-left: 20px;
+}
+
+.cms-item{
+    margin-left: 20px;
+}
+
+.titile{
+    border: none;
+    outline: none;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-bottom: solid 1px #cacaca;;
+}
+
+.content{
+    border: none;
+    margin-left: 20px;
+}
+
+.uname{
+    border: none;
+    outline: none;
+    margin-left: 20px;
+    border-bottom: solid 1px #cacaca;;
+}
+
+.sbtn{
+    margin-top: 20px;
+    margin-left: 380px;
+    padding: 5px 10px;
+    background-color: #40e0d0;
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
